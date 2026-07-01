@@ -1,0 +1,42 @@
+# ── Byte-compiled / cache ─────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# ── Distribution / packaging ──────────────────────
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ── Virtual environments ──────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Simulation artifacts (this project) ───────────
+sim_attempts.log
+*.log
+wordlist*.txt
+*_wordlist.txt
+
+# ── Editor / IDE ──────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── OS junk ────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Env / secrets ──────────────────────────────────
+.env
+*.env
+
+# ── Testing / coverage ─────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
