@@ -69,15 +69,15 @@ No external dependencies required — pure Python standard library. 🐍
 
 ```
 ┌──────────────────────────────────────────────────┐
-│                  OBLIVION MENU                    │
+│                  OBLIVION MENU                   │
 ├──────────────────────────────────────────────────┤
-│  1) Simulate brute-force attack (auto wordlist)   │
-│  2) Load wordlist from file & simulate            │
-│  3) Generate wordlist interactively                │
-│  4) Password strength checker                      │
-│  5) View local attempt log                          │
-│  6) Show safety & defensive tips                    │
-│  0) Exit                                            │
+│  1) Simulate brute-force attack (auto wordlist)  │
+│  2) Load wordlist from file & simulate           │
+│  3) Generate wordlist interactively              │
+│  4) Password strength checker                    │
+│  5) View local attempt log                       │
+│  6) Show safety & defensive tips                 │
+│  0) Exit                                         │
 └──────────────────────────────────────────────────┘
 ```
 
