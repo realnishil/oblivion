@@ -15,7 +15,6 @@
 ![Status](https://img.shields.io/badge/status-beta-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/license-Educational--Use-yellow?style=for-the-badge)
-![Made by](https://img.shields.io/badge/made%20by-Nishil%20Bhimani-ff69b4?style=for-the-badge)
 
 **⚠️ EDUCATIONAL PURPOSES ONLY ⚠️**
 
@@ -111,7 +110,6 @@ No external dependencies required — pure Python standard library. 🐍
 
 **Nishil Bhimani**
 
-🔗 [github.com/nishilxy](https://github.com/nishilxy)
 
 ---
 
