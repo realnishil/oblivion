@@ -481,21 +481,7 @@ Not intended for:
 
 # 📜 License
 
-MIT License
-
-```text
-MIT License
-
-Copyright (c) 2026 Nishil
-
-Permission is hereby granted, free of charge,
-to any person obtaining a copy of this software
-and associated documentation files to deal in
-the Software without restriction.
-
-THE SOFTWARE IS PROVIDED "AS IS",
-WITHOUT WARRANTY OF ANY KIND.
-```
+[![MIT License](https://img.shields.io/badge/LICENSE-MIT-black?style=for-the-badge&logo=opensourceinitiative&logoColor=00ff88)](LICENSE)
 
 ---
 
