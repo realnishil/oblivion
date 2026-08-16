@@ -1,4 +1,5 @@
-# 💀 OBLIVION V6.6 [![MIT License](https://img.shields.io/badge/LICENSE-MIT-black?style=for-the-badge&logo=opensourceinitiative&logoColor=00ff88)](LICENSE)
+# 💀 OBLIVION V6.6 
+[![MIT License](https://img.shields.io/badge/LICENSE-MIT-black?style=for-the-badge&logo=opensourceinitiative&logoColor=00ff88)](LICENSE)
 
 <div align="center">
 
@@ -479,11 +480,7 @@ Not intended for:
 
 ---
 
-# 📜 License
 
-[![MIT License](https://img.shields.io/badge/LICENSE-MIT-black?style=for-the-badge&logo=opensourceinitiative&logoColor=00ff88)](LICENSE)
-
----
 
 # 👨‍💻 Author
 
