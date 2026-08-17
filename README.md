@@ -511,75 +511,35 @@ https://github.com/realnishil
 
 ⭐ Star the repository if you found it useful.
 
+—-
 
-⚠️ SECURITY NOTICE ⚠️
+⚠️ SECURITY NOTICE
 
-╔══════════════════════════════════════════════════════════════╗
-║                    [ SECURITY NOTICE ]                      ║
-║                      ACCESS GRANTED                         ║
-╚══════════════════════════════════════════════════════════════╝
+[ ACCESS GRANTED ]
+Initializing Ethical Use Policy...
 
-This project is provided for educational, research, and authorized security testing purposes only.
+This project is intended for educational, research, and authorized security testing purposes only.
 
-🛡️ Authorized Use Only
+🔐 Use Responsibly
 
-By using this software, you agree that you will:
+By using this software, you agree to:
 
-* Use it only on systems, networks, or applications you own or have explicit permission to test.
-* Comply with all applicable local, national, and international laws.
-* Respect privacy, security policies, and responsible disclosure practices.
-* Accept full responsibility for your actions and any consequences resulting from misuse.
+* Test only systems you own or have permission to assess.
+* Follow all applicable laws and regulations.
+* Take full responsibility for your actions and outcomes.
 
-⸻
+🚫 Unauthorized Use
 
-🚫 Prohibited Activities
-
-The following actions are strictly discouraged:
-
-* Unauthorized access to systems or networks
-* Illegal penetration testing
-* Credential theft or account compromise
-* Data exfiltration or privacy violations
-* Disruptive or malicious activities
-* Any activity that violates applicable laws or regulations
-
-⸻
+Any misuse, including unauthorized access, malicious activity, or illegal operations, is strictly prohibited.
 
 ⚡ Disclaimer
 
-The author and contributors assume no liability and are not responsible for any misuse, damage, legal consequences, or losses caused directly or indirectly by the use of this project.
+The author and contributors are not liable for any damages, losses, or legal consequences resulting from the use or misuse of this project.
 
-All responsibility rests solely with the user.
+STATUS: ACTIVE
+MODE: ETHICAL RESEARCH ONLY
+UNAUTHORIZED ACCESS: DENIED
 
-⸻
-
-🔐 Responsible Security Research
-
-Security tools are powerful.
-
-Use them to:
-
-✔ Learn
-✔ Research
-✔ Audit your own systems
-✔ Improve security posture
-✔ Participate in legal CTFs and labs
-
-Not to:
-
-❌ Attack others
-❌ Bypass authorization
-❌ Violate privacy
-❌ Cause harm
-
-⸻
-
-[ SYSTEM STATUS ]
-User Responsibility ............. ENABLED
-Ethical Usage ................... REQUIRED
-Unauthorized Access ............. DENIED
-Legal Compliance ................ MANDATORY
-
-> Stay Ethical. Stay Legal. Hack Responsibly.
+Hack Smart. Stay Legal.
 
 </div>
